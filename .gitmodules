@@ -34,6 +34,9 @@
 [submodule "BIM"]
 	path = BIM
 	url = https://github.com/yorikvanhavre/BIM_Workbench.git
+[submodule "bimtester"]
+	path = bimtester
+	url = https://github.com/bimtester/bimtesterfc
 [submodule "BOLTSFC"]
 	path = BOLTSFC
 	url = https://github.com/boltsparts/BOLTSFC.git
@@ -136,7 +139,7 @@
 [submodule "LCInterlocking"]
 	path = LCInterlocking
 	url = https://github.com/execuc/LCInterlocking
-[submodule "library"]
+[submodule "parts_library"]
 	path = parts_library
 	url = https://github.com/FreeCAD/FreeCAD-library.git
 [submodule "Lithophane"]
@@ -235,6 +238,9 @@
 [submodule "SlopedPlanesMacro"]
 	path = SlopedPlanesMacro
 	url = https://github.com/luzpaz/SlopedPlanesMacro.git
+[submodule "SteelColumn"]
+	path = SteelColumn
+	url = https://github.com/ebrahimraeyat/momen
 [submodule "symbols_library"]
 	path = symbols_library
 	url = https://github.com/FreeCAD/FreeCAD-symbols.git
@@ -265,9 +271,6 @@
 [submodule "yaml-workspace"]
 	path = yaml-workspace
 	url = https://github.com/Mambix/FreeCAD-yaml-workspace.git
-[submodule "ose-piping"]
-	path = ose-piping
-	url = https://github.com/rkrenzler/ose-piping-workbench
-[submodule "SteelColumn"]
-	path = SteelColumn
-	url = https://github.com/ebrahimraeyat/momen
+[submodule "Pyramids-and-Polyhedrons"]
+	path = Pyramids-and-Polyhedrons
+	url = https://github.com/eddyverl/FreeCAD-Pyramids-and-Polyhedrons.git
